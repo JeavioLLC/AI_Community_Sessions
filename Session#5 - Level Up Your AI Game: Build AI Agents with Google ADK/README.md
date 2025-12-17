@@ -4,7 +4,7 @@ A collection of AI agent projects built with Google's Agent Development Kit (ADK
 
 ## Projects
 
-### 📽️ [BookMyShow](/Level%20Up%20Your%20AI%20Game:%20Build%20AI%20Agents%20with%20Google%20ADK/math-problem-solver/)
+### 📽️ [BookMyShow](./bookmyshow/)
 
 A movie ticket booking agent that demonstrates progressive agent development:
 
@@ -14,9 +14,9 @@ A movie ticket booking agent that demonstrates progressive agent development:
 - **Part 4** - Agent handoff patterns
 - **Part 5** - Complete multi-agent system with showtime and seat agents
 
-👉 See [bookmyshow/README.md](/Level%20Up%20Your%20AI%20Game:%20Build%20AI%20Agents%20with%20Google%20ADK/bookmyshow/README.md) for setup and usage instructions.
+👉 See [bookmyshow/README.md](./bookmyshow/README.md) for setup and usage instructions.
 
-### 🧮 [Math Problem Solver](/Level%20Up%20Your%20AI%20Game:%20Build%20AI%20Agents%20with%20Google%20ADK/math-problem-solver/)
+### 🧮 [Math Problem Solver](./math-problem-solver/)
 
 An intelligent math solving pipeline featuring:
 
@@ -24,16 +24,16 @@ An intelligent math solving pipeline featuring:
 - **Verifier Agent** - Validates solutions
 - **Fixer Agent** - Corrects errors in solutions
 
-👉 See [math-problem-solver/README.md](/Level%20Up%20Your%20AI%20Game:%20Build%20AI%20Agents%20with%20Google%20ADK/math-problem-solver/README.md) for setup and usage instructions.
+👉 See [math-problem-solver/README.md](./math-problem-solver/README.md) for setup and usage instructions.
 
-### [Trip Planner and Recipe Agents](/Level%20Up%20Your%20AI%20Game:%20Build%20AI%20Agents%20with%20Google%20ADK/Trip%20Planner%20And%20Recipe%20Agents/)
+### 🍽️ [Trip Planner and Recipe Agents](./Trip%20Planner%20And%20Recipe%20Agents/)
 
 A Trip Planner Agent and Recipe Recommendation Agent:
 
 - **Trip Planner Agent** - Plan a trip with a complete itinerary
 - **Recipe Recommendation Agent** - A recipe recommendation agent based on a user preferences.
 
-👉 See [trip-planner-and-recipe-recommendation/README.md](/Level%20Up%20Your%20AI%20Game:%20Build%20AI%20Agents%20with%20Google%20ADK/Trip%20Planner%20And%20Recipe%20Agents/README.md) for setup and usage instructions.
+👉 See [Trip Planner And Recipe Agents/README.md](./Trip%20Planner%20And%20Recipe%20Agents/README.md) for setup and usage instructions.
 
 ## Getting Started
 
