@@ -1,0 +1,11 @@
+{
+  "user_id": "default_user",
+  "preferences": {
+    "dietary_restrictions": [],
+    "favorite_cuisines": [],
+    "disliked_ingredients": [],
+    "preferred_categories": []
+  },
+  "recipe_history": [],
+  "last_updated": "2025-11-28T00:00:00"
+}
