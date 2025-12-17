@@ -87,7 +87,6 @@ pip-delete-this-directory.txt
 
 # dotenv
 *.env
-*.env.*
 
 # Editors / IDEs
 .idea/
