@@ -1,0 +1,104 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.adk/
+
+
+# ----------------------------------------
+# Python
+# ----------------------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+MANIFEST
+
+# PyInstaller
+*.spec
+
+# Unit test / Coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Django related
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Flask related
+instance/
+.webassets-cache
+
+# Scrapy related
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pydantic
+.pdm-python/
+
+# Environments / Tools
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# dotenv
+*.env
+*.env.*
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mac / OS Files
+.DS_Store
+Thumbs.db
+
+# Local development secrets or configs
+*.local
+*.secret
