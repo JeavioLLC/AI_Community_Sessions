@@ -1,4 +1,4 @@
-# AI Community Sessions
+# Google ADK
 
 A collection of AI agent projects built with Google's Agent Development Kit (ADK), created for the Jeavio AI Community sessions.
 
